@@ -1,7 +1,10 @@
 ```markdown
 # 📊 Belajar ClickHouse: Aplikasi CLI Python
 
-Proyek ini adalah aplikasi Python sederhana berbasis CLI untuk belajar cara menggunakan ClickHouse secara efisien menggunakan Python. Data awal disimpan dalam format **Parquet** dan dimuat ke dalam **ClickHouse**. Aplikasi ini memiliki fitur query interaktif menggunakan **menu berbasis teks**.
+Proyek ini adalah aplikasi Python sederhana berbasis CLI untuk belajar cara menggunakan 
+ClickHouse secara efisien menggunakan Python. Data awal disimpan dalam format **Parquet** 
+dan dimuat ke dalam **ClickHouse**. 
+Aplikasi ini memiliki fitur query interaktif menggunakan **menu berbasis teks**.
 
 ---
 
