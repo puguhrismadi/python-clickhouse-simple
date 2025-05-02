@@ -52,7 +52,7 @@ Pilih menu: 1
 
 1. **Clone repositori dan masuk ke direktori proyek**:
    ```bash
-   git clone https://github.com/namauser/belajar-clickhouse.git
+   git clone https://github.com/puguhrismadi/belajar-clickhouse.git
    cd belajar-clickhouse
    ```
 
