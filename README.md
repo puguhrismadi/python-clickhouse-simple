@@ -10,7 +10,6 @@ Aplikasi ini memiliki fitur query interaktif menggunakan **menu berbasis teks**.
 
 ## ✅ Fitur Aplikasi
 
-```
 === Menu CLI ClickHouse ===
 1. Hitung total record
 2. Cari data berdasarkan location
